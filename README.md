@@ -14,7 +14,6 @@
 <h3>Language</h3>
 <p>
   <a href="https://github.com/yun10002/StudyWPF.git" target="_blank"><img alt="C" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
-  <a href="https://github.com/yun10002/StudyWPF.git" target="_blank"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
 </P>
 
 ## Using Tools
