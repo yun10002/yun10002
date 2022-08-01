@@ -10,22 +10,28 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yun10002&theme=synthwave&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yun10002&theme=synthwave&layout=compact"/>
 
+
+
 ## Tech Stack
 <h3>Language</h3>
 <p>
-  <a href="https://github.com/yun10002/StudyWPF.git" target="_blank"><img alt="C" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
+  <img alt="C" src="https://img.shields.io/badge/-C%20language-lightgrey?style=flat&logo=C&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/-C%2B%2B-blue?style=flat&logo=cplusplus&logoColor=white"/>
+  <a href="https://github.com/yun10002/StudyWPF.git" target="_blank"><img alt="C" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/></a>
+  <img alt="C" src="https://img.shields.io/badge/-Python-yellow.svg?style=flat&logo=python&logoColor=white"/>
 </P>
 
 ## Using Tools
 <p align='left'>
     <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
     <img height="40" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png">
-    <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png">
-    <img height="40" src="https://img.icons8.com/color/48/000000/raspberry-pi.png">
+    <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
     <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png">
     <img height="40" src="https://img.icons8.com/fluent/48/000000/vmware-workstation-player.png">
-    <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png">
+    <img height="40" src="https://img.icons8.com/color/48/000000/raspberry-pi.png">
+    <img height="40" src="https://img.icons8.com/color/48/000000/linux.png">
+    <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
 
 ## Project List
