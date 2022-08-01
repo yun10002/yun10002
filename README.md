@@ -10,8 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yun10002&theme=synthwave&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yun10002&theme=synthwave&layout=compact"/>
 
-
-
+<br><br>
 ## Tech Stack
 <h3>Language</h3>
 <p>
@@ -21,7 +20,7 @@
   <img alt="C" src="https://img.shields.io/badge/-Python-yellow.svg?style=flat&logo=python&logoColor=white"/>
 </P>
 
-## Using Tools
+<h3>Tools</h3>
 <p align='left'>
     <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png">
     <img height="40" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png">
@@ -34,8 +33,19 @@
     <img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
 
+<br><br>
 ## Project List
-- [WPF] [WPF 프로젝트](https://github.com/yun10002/StudyWpf/tree/main/portfolio)
+- C
+  - 미니게임천국(미니 팀 프로젝트)
+- C++
+  - ERP/MES/POP 시스템(미니 팀 프로젝트)
+- C#
+  - WinForm 
+    - SqlDB 활용 영화예매 프로그램 (미니 팀프로젝트)
+  - [WPF](https://github.com/yun10002/StudyWpf/tree/main/portfolio)
+    - 네이버 영화검색 앱
+    - 네이버 뉴스검색 앱
+    - 스마트 홈 모니터링 앱
 
 
 <!--
