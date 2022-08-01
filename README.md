@@ -41,8 +41,8 @@
   - ERP/MES/POP 시스템(미니 팀 프로젝트)
 - C#
   - WinForm 
-    - SqlDB 활용 영화예매 프로그램 (미니 팀프로젝트)(https://github.com/yun10002/moogabox)
-  - [WPF](https://github.com/yun10002/StudyWpf/tree/main/portfolio)
+    - SqlDB 활용 영화예매 프로그램(미니 팀프로젝트) [바로가기](https://github.com/yun10002/moogabox)
+  - WPF [바로가기](https://github.com/yun10002/StudyWpf/tree/main/portfolio)
     - 네이버 영화검색 앱
     - 네이버 뉴스검색 앱
     - 스마트 홈 모니터링 앱
