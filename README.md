@@ -25,7 +25,7 @@
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png">
     <img height="40" src="https://img.icons8.com/color/48/000000/raspberry-pi.png">
     <img height="40" src="https://mosquitto.org/stickers/mosquitto-mono.png">
-    <!-- img height="40" src="https://img.icons8.com/fluent/48/000000/vmware-workstation-player.png"-->
+    <img height="40" src="https://img.icons8.com/fluent/48/000000/vmware-workstation-player.png">
     <img height="40" src="https://taiwebs.com/upload/icons/vnc-connect-enterprise220-220.png">
 </p>
 
