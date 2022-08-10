@@ -47,7 +47,7 @@
       - [시연영상](https://youtu.be/UQH7eHv1bzI)
       - [리포지토리](https://github.com/yun10002/moogabox)
       
-  - WPF [리포지토리](https://github.com/yun10002/StudyWpf/tree/main/portfolio)
+  - WPF [바로가기](https://github.com/yun10002/StudyWpf/tree/main/portfolio)
     - 네이버 영화검색 앱
     - 네이버 뉴스검색 앱
     - 스마트 홈 모니터링 앱
