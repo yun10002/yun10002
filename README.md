@@ -40,7 +40,7 @@
 - C
   - 미니게임천국(미니 팀 프로젝트)
 - C++
-  - ERP/MES/POP 시스템(미니 팀 프로젝트)
+  - ERP/MES/POP 시스템(미니 팀 프로젝트) [시연영상](https://www.youtube.com/watch?v=UH03ALuEVAQ)
 - C#
   - WinForm 
     - SqlDB 활용 영화예매 프로그램(미니 팀 프로젝트) [바로가기](https://github.com/yun10002/moogabox)
